@@ -1,3 +1,5 @@
 {
-  "allowed_ids": ["88fddec5409274ad", "1234567890abcdef"]
+  "licensed_devices": [
+    "88fddec5409274ad"
+  ]
 }
